@@ -92,6 +92,9 @@ docker run -p 8501:8501 medical-chatbot
 
 ---
 
+![Llama-2 Medical Chatbot](assets/chatbot.png)
+
+
 ## 🤖 Example Usage
 ### 1️⃣ Upload a Medical PDF
 - Upload **The Gale Encyclopedia of Medicine** or other documents.
